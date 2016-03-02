@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.page-imgs {
+  text-align: center;
+  margin: -4px auto;
+  /* for 4 pages
+  height: 660px;
+  width: 932px;
+  */
+  /* for 2 pages */
+  height: 970px;
+  width: 700px;
+}
+
+img {
+  /*width: 50%;*/
+  height: 50%;
+  vertical-align: top;
+  margin: 4px;
+}
